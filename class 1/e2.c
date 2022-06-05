@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*The distance between Mirpur and Ashulia is input through the keyboard. 
+Write a program to convert and print this distance in meter, feet, inches and centimeters.*/
 int main () {
     double km, meter, feet, inches, centimeters;
     printf("Enter the distance between Mirpur and Ashulia :");

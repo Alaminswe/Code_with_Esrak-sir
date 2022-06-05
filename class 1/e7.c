@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*If a five-digit number is input through the keyboard, 
+write a program to calculate the sum of its digits.*/
 int main () {
      int Number, sum, a, b, c, d, e, d1, d2, d3, d4, d5;
 

@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*Temperature of a city in Fahrenheit degrees is input through the keyboard. 
+Write a program to convert this temperature into Centigrade degrees. */
 int main () {
     float F, C, Centregates;
     printf("Enter a farhenhigt number : ");
